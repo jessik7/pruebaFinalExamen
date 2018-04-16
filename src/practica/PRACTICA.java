@@ -7,7 +7,7 @@ import java.util.Locale;
 import javax.swing.JOptionPane;
 
 /**
- *Nombre de la clase: practica
+ *Nombre de la clase: PRACTICA
  * Fecha: 15-04-2018
  * Version: 1.0
  * CopyRight: Jessica Menjivar
